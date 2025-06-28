@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://flagsapi.com/MA/flat/64.png" alt="Moroccan Flag" height="100" style="vertical-align: middle;"/>
+  <img src="https://flagsapi.com/MA/flat/64.png" alt="Moroccan Flag" height="60" style="vertical-align: middle;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berber_flag.svg/1200px-Berber_flag.svg.png?20231128195408" alt="Amazigh Flag" height="50" style="vertical-align: middle;"/>
 </p>
 
