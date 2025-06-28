@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://flagsapi.com/MA/flat/64.png" alt="Moroccan Flag" height="auto" style="vertical-align: middle;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berber_flag.svg/1200px-Berber_flag.svg.png?20231128195408" alt="Amazigh Flag" height="40" style="vertical-align: middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berber_flag.svg/1200px-Berber_flag.svg.png?20231128195408" alt="Amazigh Flag" height="30" style="vertical-align: middle;"/>
 </p>
 
 <h1 align="center">Oussama Taghlaoui</h1>
